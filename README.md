@@ -9,5 +9,5 @@ To run xfce4 desktop environment try this:
 
 For base image, see the main Dockerfile.
 
-
+![alt text](https://i.imgur.com/u54TAxA.png)
 
